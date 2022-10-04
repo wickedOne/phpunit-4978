@@ -1,0 +1,19 @@
+{
+    "name": "wickedone/phpunit-4978",
+    "description": "bug 4978 reproduction",
+    "license": "MIT",
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "authors": [
+        {
+            "name": "wicliff",
+            "email": "wicliff.wolda@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
